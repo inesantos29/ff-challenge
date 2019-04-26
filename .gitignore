@@ -1,0 +1,16 @@
+# OS generated files
+.DS_Store*
+ehthumbs.db
+Thumbs.db
+
+# Visual Studio folders
+.vscode
+.vs
+
+# Webstorm folders
+.idea/
+
+# UI Development generated files
+node_modules
+dist
+
